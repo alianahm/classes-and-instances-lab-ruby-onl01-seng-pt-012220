@@ -1,2 +1,4 @@
 class Dog
-  fido = dpg
+  fido = Dog.new
+  snoopy = Dog.new 
+  
